@@ -80,5 +80,3 @@ I currently don't take any monetary support so the only way to support this proj
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](./LICENSE)
 
-- **[MIT license](./LICENSE)**
-- Copyright 2023 © <a href="https://github.com/Arsenic-ATG" target="_blank">Ankur Saini</a>.
